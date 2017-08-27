@@ -1,4 +1,5 @@
 'use strict';
+// suma i iloczyn elementów tablicy
 
 function suma(tablicaLiczb) {
     var suma = 0;
